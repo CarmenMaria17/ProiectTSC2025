@@ -103,3 +103,11 @@ Sistemul este proiectat pentru consum minim, cu multiple moduri de functionare:
 - **GND**: Masa
 
 Aceasta alocare permite interfatarea eficienta cu toate componentele sistemului OpenBook.
+
+# Alte poze
+
+![Screenshot 2025-04-06 194355](https://github.com/user-attachments/assets/f6a0d3d8-5469-4f42-b72e-c700dec84ab4)
+![Screenshot 2025-04-06 194247](https://github.com/user-attachments/assets/bac51ebf-e645-47f2-8099-25c2ea2e21cb)
+
+
+
