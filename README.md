@@ -28,7 +28,6 @@
 | PFMF | |
 | R0402 | |
 | Condensatori SMD |  |
-| SMD Solder |  |
 
 # Descriere scurta
 
