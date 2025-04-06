@@ -6,28 +6,28 @@
 
 # Bill Of Materials
 
-| Component | Link Achiziție | Datasheet |
-|-----------|---------------|-----------|
-| ESP32-C6-WROOM-1-N8 |  | |
-| W25Q512JVEIQ | | |
-| DS3231SN# | | |
-| BME680 | |
-| USB4110-GF-A ||
-| MCP73831T-5ACI/OT | |
-| BD5229G-TR | |
-| XC6220A331MR-G | |
-| MAX17048G+T10 | |
-| USBLC6-2SC6Y | |
-| PGB1010603MR  ||
-| DMG2305UX-7 | |
-| Si1308EDL-T1-GE3 |  |
-| CPH3225A | |
-| EVQPUJ02K |  |
-| KP-1608SURCK | |
-| SD0805S020S1R0 |  |
-| PFMF | |
-| R0402 | |
-| Condensatori SMD |  |
+| Component | Datasheet Link |
+|-----------|---------------|
+| ESP32-C6-WROOM-1-N8 | [Datasheet](https://www.espressif.com/sites/default/files/documentation/esp32-c6-wroom-1_datasheet_en.pdf) |
+| W25Q512JVEIQ | [Datasheet](https://www.winbond.com/resource-files/W25Q512JV%20RevI%20112518.pdf) |
+| DS3231SN# | [Datasheet](https://www.analog.com/media/en/technical-documentation/data-sheets/ds3231.pdf) |
+| BME680 | [Datasheet](https://www.bosch-sensortec.com/media/boschsensortec/downloads/datasheets/bst-bme680-ds001.pdf) |
+| USB4110-GF-A | [Datasheet](https://www.gct.co/connector/usb4110) |
+| MCP73831T-5ACI/OT | [Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/MCP73831-Family-Data-Sheet-DS20001984H.pdf) |
+| BD5229G-TR | [Datasheet](https://fscdn.rohm.com/en/products/databook/datasheet/ic/power/linear_regulator/bd5230g-e.pdf) |
+| XC6220A331MR-G | [Datasheet](https://www.torexsemi.com/file/xc6220/XC6220.pdf) |
+| MAX17048G+T10 | [Datasheet](https://www.analog.com/media/en/technical-documentation/data-sheets/max17048-max17049.pdf) |
+| USBLC6-2SC6Y | [Datasheet](https://www.st.com/resource/en/datasheet/usblc6-2.pdf) |
+| PGB1010603MR | [Datasheet](https://www.littelfuse.com/~/media/electronics/datasheets/esd_suppression/littelfuse_esd_suppression_pgb1_datasheet.pdf.pdf) |
+| DMG2305UX-7 | [Datasheet](https://www.diodes.com/assets/Datasheets/DMG2305UX.pdf) |
+| Si1308EDL-T1-GE3 | [Datasheet](https://www.vishay.com/docs/68834/si1308edl.pdf) |
+| CPH3225A | [Datasheet](https://datasheet.lcsc.com/lcsc/2110251730_TXC-Corporation-7M-12000MAAE_C547233.pdf) |
+| EVQPUJ02K | [Datasheet](https://industrial.panasonic.com/cdbs/www-data/pdf/ATV0000/ATV0000C5.pdf) |
+| KP-1608SURCK | [Datasheet](https://www.kingbright.com/attachments/file/psearch/000/00/00/KP-1608SURCK(Ver.15).pdf) |
+| SD0805S020S1R0 | [Datasheet](https://www.bourns.com/docs/product-datasheets/sd.pdf) |
+| PFMF | [Datasheet](https://www.littelfuse.com/~/media/electronics/datasheets/fuses/littelfuse_fuse_pfmf_datasheet.pdf) |
+| R0402 | [Datasheet](https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_11.pdf) |
+| Condensatori SMD | [Datasheet](https://www.yageo.com/upload/media/product/productsearch/datasheet/mlcc/UPY-GPHC_X7R_16V-to-50V_18.pdf) |
 
 # Descriere scurta
 
