@@ -1,0 +1,1 @@
+# ProiectTSC2025
