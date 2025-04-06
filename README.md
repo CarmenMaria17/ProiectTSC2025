@@ -8,7 +8,7 @@
 
 | Component | Link Achiziție | Datasheet |
 |-----------|---------------|-----------|
-| ESP32-C6-WROOM-1-N8 |  | [Datasheet](https://www.espressif.com/sites/default/files/documentation/esp32-c6_datasheet_en.pdf) |
+| ESP32-C6-WROOM-1-N8 |  | |
 | W25Q512JVEIQ (Flash 64MB) | | |
 | DS3231SN# (RTC) | | |
 | BME680 (Senzor mediu) | |
