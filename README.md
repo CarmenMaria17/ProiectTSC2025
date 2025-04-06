@@ -2,7 +2,8 @@
 
 ## Diagrama Bloc
 
-![image](https://github.com/user-attachments/assets/6be7cce0-c347-423c-88e3-3e90b86d44f9)
+![image](https://github.com/user-attachments/assets/cf016ced-38cc-4f77-a24d-0b3fbc02e55c)
+
 
 ## Descriere scurta
 
