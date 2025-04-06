@@ -56,20 +56,20 @@
 
 # Bill of Materials
 
-| Componenta | Descriere | Datasheet | Model |
-|-----------|-------------|-----------|--------------|
-| ESP32-C6-WROOM-1-N8 | Main microcontroller module | [Datasheet](https://www.espressif.com/sites/default/files/documentation/esp32-c6_datasheet_en.pdf) | [Model](https://www.mouser.com/ProductDetail/Espressif-Systems/ESP32-C6-WROOM-1-N8) |
-| W25Q512JVEIQ | 64MB External NOR Flash Memory | [Datasheet](https://www.winbond.com/resource-files/W25Q512JV%20RevI%2005132020%20Plus.pdf) | [Model](https://www.mouser.com/ProductDetail/Winbond/W25Q512JVEIQ) |
-| DS3231SN | Real-Time Clock Module | [Datasheet](https://datasheets.maximintegrated.com/en/ds/DS3231.pdf) | [Model](https://www.mouser.com/ProductDetail/Analog-Devices-Maxim-Integrated/DS3231SN) |
-| BME688 | Environmental Sensor (Temp/Humidity) | [Datasheet](https://www.bosch-sensortec.com/media/boschsensortec/downloads/datasheets/bst-bme688-ds000.pdf) | [Model](https://www.mouser.com/ProductDetail/Bosch-Sensortec/BME688) |
-| MCP73831 | LiPo Battery Charging Controller | [Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/20001984g.pdf) | [Model](https://www.mouser.com/ProductDetail/Microchip-Technology/MCP73831T-5ACI-OT) |
-| MAX17048G+T10 | Battery Fuel Gauge | [Datasheet](https://datasheets.maximintegrated.com/en/ds/MAX17048-MAX17049.pdf) | [Model](https://www.mouser.com/ProductDetail/Analog-Devices-Maxim-Integrated/MAX17048G%2bT10) |
-| XC6220A331MR-G | 3.3V LDO Voltage Regulator | [Datasheet](https://www.torexsemi.com/file/xc6220/XC6220.pdf) | [Model](https://www.mouser.com/ProductDetail/Torex-Semiconductor/XC6220A331MR-G) |
-| PFMF.050.1 | USB-C Connector | [Datasheet](https://cdn.amphenol-cs.com/media/wysiwyg/files/drawing/pfmf.pdf) | [Model](https://www.mouser.com/ProductDetail/Amphenol-FCI/PFMF0501) |
-| USBLC6-2SC6Y | USB ESD Protection | [Datasheet](https://www.st.com/resource/en/datasheet/usblc6-2.pdf) | [Model](https://www.mouser.com/ProductDetail/STMicroelectronics/USBLC6-2SC6Y) |
-| FH34SRJ-24S-0.5SH | E-Paper Display Connector | [Datasheet](https://www.hirose.com/product/document?clcode=CL0684-0832-7-99&productname=FH34SRJ-24S-0.5SH(99)&series=FH34&documenttype=Catalog&lang=en&documentid=D49681_en) | [Mouser](https://www.mouser.com/ProductDetail/Hirose-Connector/FH34SRJ-24S-0.5SH) |
-| 112A-TAAR-R03 | SD Card Connector | [Datasheet](https://www.attend.com.tw/sites/default/files/2022-05/112A-TAAR-R03.pdf) | [Model](https://www.mouser.com/ProductDetail/Attend/112A-TAAR-R03) |
-| EVQPUJ02K | Tactile Switches (Buttons) | [Datasheet](https://industry.panasonic.com/ww/components/devices/mechanical-components/switches/light-touch-switches/products/evqpuj02k) | [Model](https://www.mouser.com/ProductDetail/Panasonic/EVQPUJ02K) |
+| Componenta | Model | Datasheet |
+|-----------|--------------|-----------|
+| ESP32-C6-WROOM-1-N8 | [Model](https://www.snapeda.com/parts/ESP32-C6-WROOM-1-N8/Espressif+Systems/view-part/?ref=eda) | [Datasheet](//efaidnbmnnnibpcajpcglclefindmkaj/https://www.mouser.com/catalog/specsheets/Espressif_ESP32_C6_WROOM_1%20_Datasheet_V0.1_PRELIMINARY_en.pdf?srsltid=AfmBOooHQKNitqODRaaPjoZInfWKTacDER1t5uRK6sKqT13TrzvVo_B7) |
+| BME680 | [Model](https://www.snapeda.com/parts/BME680/Bosch/view-part/?welcome=home) | [Datasheet](//efaidnbmnnnibpcajpcglclefindmkaj/https://www.bosch-sensortec.com/media/boschsensortec/downloads/datasheets/bst-bme680-ds001.pdf) |
+| DS3231SN# | [Model](https://www.snapeda.com/parts/DS3231SN%23/Analog+Devices/view-part/?ref=eda) | [Datasheet](https://www.alldatasheet.com/view.jsp?Searchword=Ds3231sn%20datasheet&gad_source=1&gbraid=0AAAAADcdDU-Gy9URfMxGmqiPg7ci5L3wR&gclid=Cj0KCQjwqcO_BhDaARIsACz62vMkK3ETSnW2w7mo0Fa-wgWJGn89AxWCyIND6k5X8MmoPl6hv6VWwT8aAiS-EALw_wcB) |
+| W25Q512JVEIQ | [Model](https://www.snapeda.com/parts/ESP32-C6-WROOM-1-N8/Espressif+Systems/view-part/?ref=eda) | [Datasheet](//efaidnbmnnnibpcajpcglclefindmkaj/https://www.mouser.com/datasheet/2/949/W25Q512JV_SPI_RevB_06252019_KMS-2487502.pdf?srsltid=AfmBOoquExqDVgxEELF9CzuOGxHos0CD1nQDROHD6Eebdm2foNzqozqU) |
+| MCP73831T-5ACI/OT | [Model](https://www.mouser.co.uk/ProductDetail/Microchip-Technology/MCP73831T-5ACI-OT?qs=hH%252BOa0VZEiAcgAcEkuamXg%3D%3D) | [Datasheet](//efaidnbmnnnibpcajpcglclefindmkaj/https://ww1.microchip.com/downloads/en/DeviceDoc/MCP73831-Family-Data-Sheet-DS20001984H.pdf) |
+| MAX17048G+T10 | [Model](https://www.snapeda.com/parts/MAX17048G+T10/Analog+Devices/view-part/?ref=eda) | [Datasheet](https://www.alldatasheet.com/view.jsp?Searchword=Max17048&gad_source=1&gbraid=0AAAAADcdDU8aYfZtfJfdZ9I5j6RwZ_cbA&gclid=Cj0KCQjwqcO_BhDaARIsACz62vNa9xrVfzjCjADRwXD0RBbo4Nret3ywwteDGLJKZui8ZL8KdVlTE7caAvQxEALw_wcB) |
+| USB4110-GF-A | [Model](https://componentsearchengine.com/part-view/USB4110-GF-A/GCT%20(GLOBAL%20CONNECTOR%20TECHNOLOGY)) | [Datasheet](//efaidnbmnnnibpcajpcglclefindmkaj/https://gct.co/files/drawings/usb4110.pdf) |
+| XC6220A331MR-G | [Model](https://componentsearchengine.com/part-view/XC6220A331MR-G/Torex) | [Datasheet](https://www.alldatasheet.com/view.jsp?Searchword=Xc6220&gad_source=1&gbraid=0AAAAADcdDU8aYfZtfJfdZ9I5j6RwZ_cbA&gclid=Cj0KCQjwqcO_BhDaARIsACz62vPS06NB6tLgniZzfaVpKNu1m811BNk6AEPfg4DbP6f5S8QWA_pW_UQaAv-0EALw_wcB) |
+| USBLC6-2SC6Y | [Model](https://www.snapeda.com/parts/USBLC6-2SC6Y/STMicroelectronics/view-part/?ref=eda) | [Datasheet](https://www.digikey.com/en/htmldatasheets/production/1375342/0/0/1/usblc6-2sc6y) |
+| KP-1608SURCK | [Model](https://www.snapeda.com/parts/KP-1608SURCK/Kingbright/view-part/?ref=search&t=LED%200603) | [Datasheet](//efaidnbmnnnibpcajpcglclefindmkaj/https://media.elv.com/file/107153_led_surck1608_data.pdf) |
+| CPH3225A | [Model](https://www.snapeda.com/parts/CPH3225A/Seiko+Instruments/view-part/?ref=eda) | [Datasheet](https://octopart.com/datasheet/cph3225a-seiko-25340571) |
+| BUTTON | [Model](https://industry.panasonic.com/global/en/products/control/switch/light-touch/number/evqpuj02k) | [Datasheet](https://www.lcsc.com/datasheet/lcsc_datasheet_2201121800_PANASONIC-EVQPUJ02K_C2936858.pdf) |
 
 # Alte poze
 
