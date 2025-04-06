@@ -6,20 +6,20 @@
 
 # Bill of Materials - OpenBook Project
 
-| Component | Description | Datasheet | Purchase Link |
+| Componenta | Descriere | Datasheet | Model |
 |-----------|-------------|-----------|--------------|
-| ESP32-C6-WROOM-1-N8 | Main microcontroller module | [Datasheet](https://www.espressif.com/sites/default/files/documentation/esp32-c6_datasheet_en.pdf) | [Mouser](https://www.mouser.com/ProductDetail/Espressif-Systems/ESP32-C6-WROOM-1-N8) |
-| W25Q512JVEIQ | 64MB External NOR Flash Memory | [Datasheet](https://www.winbond.com/resource-files/W25Q512JV%20RevI%2005132020%20Plus.pdf) | [Mouser](https://www.mouser.com/ProductDetail/Winbond/W25Q512JVEIQ) |
-| DS3231SN | Real-Time Clock Module | [Datasheet](https://datasheets.maximintegrated.com/en/ds/DS3231.pdf) | [Mouser](https://www.mouser.com/ProductDetail/Analog-Devices-Maxim-Integrated/DS3231SN) |
-| BME688 | Environmental Sensor (Temp/Humidity) | [Datasheet](https://www.bosch-sensortec.com/media/boschsensortec/downloads/datasheets/bst-bme688-ds000.pdf) | [Mouser](https://www.mouser.com/ProductDetail/Bosch-Sensortec/BME688) |
-| MCP73831 | LiPo Battery Charging Controller | [Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/20001984g.pdf) | [Mouser](https://www.mouser.com/ProductDetail/Microchip-Technology/MCP73831T-5ACI-OT) |
-| MAX17048G+T10 | Battery Fuel Gauge | [Datasheet](https://datasheets.maximintegrated.com/en/ds/MAX17048-MAX17049.pdf) | [Mouser](https://www.mouser.com/ProductDetail/Analog-Devices-Maxim-Integrated/MAX17048G%2bT10) |
-| XC6220A331MR-G | 3.3V LDO Voltage Regulator | [Datasheet](https://www.torexsemi.com/file/xc6220/XC6220.pdf) | [Mouser](https://www.mouser.com/ProductDetail/Torex-Semiconductor/XC6220A331MR-G) |
-| PFMF.050.1 | USB-C Connector | [Datasheet](https://cdn.amphenol-cs.com/media/wysiwyg/files/drawing/pfmf.pdf) | [Mouser](https://www.mouser.com/ProductDetail/Amphenol-FCI/PFMF0501) |
-| USBLC6-2SC6Y | USB ESD Protection | [Datasheet](https://www.st.com/resource/en/datasheet/usblc6-2.pdf) | [Mouser](https://www.mouser.com/ProductDetail/STMicroelectronics/USBLC6-2SC6Y) |
+| ESP32-C6-WROOM-1-N8 | Main microcontroller module | [Datasheet](https://www.espressif.com/sites/default/files/documentation/esp32-c6_datasheet_en.pdf) | [Model](https://www.mouser.com/ProductDetail/Espressif-Systems/ESP32-C6-WROOM-1-N8) |
+| W25Q512JVEIQ | 64MB External NOR Flash Memory | [Datasheet](https://www.winbond.com/resource-files/W25Q512JV%20RevI%2005132020%20Plus.pdf) | [Model](https://www.mouser.com/ProductDetail/Winbond/W25Q512JVEIQ) |
+| DS3231SN | Real-Time Clock Module | [Datasheet](https://datasheets.maximintegrated.com/en/ds/DS3231.pdf) | [Model](https://www.mouser.com/ProductDetail/Analog-Devices-Maxim-Integrated/DS3231SN) |
+| BME688 | Environmental Sensor (Temp/Humidity) | [Datasheet](https://www.bosch-sensortec.com/media/boschsensortec/downloads/datasheets/bst-bme688-ds000.pdf) | [Model](https://www.mouser.com/ProductDetail/Bosch-Sensortec/BME688) |
+| MCP73831 | LiPo Battery Charging Controller | [Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/20001984g.pdf) | [Model](https://www.mouser.com/ProductDetail/Microchip-Technology/MCP73831T-5ACI-OT) |
+| MAX17048G+T10 | Battery Fuel Gauge | [Datasheet](https://datasheets.maximintegrated.com/en/ds/MAX17048-MAX17049.pdf) | [Model](https://www.mouser.com/ProductDetail/Analog-Devices-Maxim-Integrated/MAX17048G%2bT10) |
+| XC6220A331MR-G | 3.3V LDO Voltage Regulator | [Datasheet](https://www.torexsemi.com/file/xc6220/XC6220.pdf) | [Model](https://www.mouser.com/ProductDetail/Torex-Semiconductor/XC6220A331MR-G) |
+| PFMF.050.1 | USB-C Connector | [Datasheet](https://cdn.amphenol-cs.com/media/wysiwyg/files/drawing/pfmf.pdf) | [Model](https://www.mouser.com/ProductDetail/Amphenol-FCI/PFMF0501) |
+| USBLC6-2SC6Y | USB ESD Protection | [Datasheet](https://www.st.com/resource/en/datasheet/usblc6-2.pdf) | [Model](https://www.mouser.com/ProductDetail/STMicroelectronics/USBLC6-2SC6Y) |
 | FH34SRJ-24S-0.5SH | E-Paper Display Connector | [Datasheet](https://www.hirose.com/product/document?clcode=CL0684-0832-7-99&productname=FH34SRJ-24S-0.5SH(99)&series=FH34&documenttype=Catalog&lang=en&documentid=D49681_en) | [Mouser](https://www.mouser.com/ProductDetail/Hirose-Connector/FH34SRJ-24S-0.5SH) |
-| 112A-TAAR-R03 | SD Card Connector | [Datasheet](https://www.attend.com.tw/sites/default/files/2022-05/112A-TAAR-R03.pdf) | [Mouser](https://www.mouser.com/ProductDetail/Attend/112A-TAAR-R03) |
-| EVQPUJ02K | Tactile Switches (Buttons) | [Datasheet](https://industry.panasonic.com/ww/components/devices/mechanical-components/switches/light-touch-switches/products/evqpuj02k) | [Mouser](https://www.mouser.com/ProductDetail/Panasonic/EVQPUJ02K) |
+| 112A-TAAR-R03 | SD Card Connector | [Datasheet](https://www.attend.com.tw/sites/default/files/2022-05/112A-TAAR-R03.pdf) | [Model](https://www.mouser.com/ProductDetail/Attend/112A-TAAR-R03) |
+| EVQPUJ02K | Tactile Switches (Buttons) | [Datasheet](https://industry.panasonic.com/ww/components/devices/mechanical-components/switches/light-touch-switches/products/evqpuj02k) | [Model](https://www.mouser.com/ProductDetail/Panasonic/EVQPUJ02K) |
 
 ## Descriere scurta
 
