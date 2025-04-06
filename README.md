@@ -70,8 +70,6 @@ Sistemul este proiectat pentru consum minim, cu multiple moduri de functionare:
 
 # ESP32-C6 - Alocarea pinilor
 
-# ESP32-C6 Pin Allocation
-
 ## Pini pentru comunicatie
 - **SPI_CLK**: Clock pentru interfata SPI (conectat la Flash, SD Card, Display)
 - **SPI_MOSI**: Master Out Slave In pentru SPI
