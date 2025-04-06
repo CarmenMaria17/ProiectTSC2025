@@ -82,8 +82,8 @@ Aceasta alocare permite interfatarea eficienta cu toate componentele sistemului 
 
 # Bill Of Materials
 
-| Componenta | Datasheet| Model |
-|-----------|---------------|----------------|
+| Componenta | Datasheet | Model |
+|------------|-----------|-------|
 | ESP32-C6-WROOM-1-N8 | [Datasheet](https://www.espressif.com/sites/default/files/documentation/esp32-c6_datasheet_en.pdf) | [Model](https://www.snapeda.com/parts/ESP32-C6-WROOM-1-N8/Espressif+Systems/view-part/?ref=eda) |
 | W25Q512JVEIQ | [Datasheet](https://www.winbond.com/resource-files/W25Q512JV%20RevI%2005132020%20Plus.pdf) | [Model](https://www.snapeda.com/parts/W25Q512JVEIQ/Winbond+Electronics/view-part/?ref=eda) |
 | DS3231SN# | [Datasheet](https://datasheets.maximintegrated.com/en/ds/DS3231.pdf) | [Model](https://www.snapeda.com/parts/DS3231SN%23/Analog+Devices/view-part/?ref=eda) |
@@ -104,9 +104,6 @@ Aceasta alocare permite interfatarea eficienta cu toate componentele sistemului 
 | XC6220A331MR-G | [Datasheet](https://www.torexsemi.com/file/xc6220/XC6220.pdf) | [Model](https://www.torexsemi.com/products/voltage-regulators/ldo-regulators/xc6220/) |
 | EVQPUJ02K | [Datasheet](https://industry.panasonic.com/ww/components/devices/mechanical-components/switches/light-touch-switches/products/evqpuj02k) | [Model](https://industry.panasonic.com/ww/products/industrial-devices/mechanical-components/switches/light-touch-switches/light-touch-switches/evqpuj02k) |
 | KP-1608SURCK | [Datasheet](https://www.kingbrightusa.com/images/catalog/SPEC/APHHS1608LSURKCGKC.pdf) | [Model](https://www.snapeda.com/parts/KP-1608SURCK/Kingbright/view-part/?ref=search&t=LED%200603) |
-| QWIIC_RIGHT_ANGLE | [Datasheet](https://cdn.sparkfun.com/assets/1/4/d/8/3/Qwiic_Connector_Datasheet.pdf) | [Model](https://www.sparkfun.com/products/14417) |
-| Rezistor SMD 0402 | [Datasheet](https://www.yageo.com/en/Product/resistors) | [Model](https://componentsearchengine.com/part-view/R0402%201%25%20100%20K%20(RC0402FR-07100KL)/YAGEO) |
-| Capacitor SMD 0402 | [Datasheet](https://www.yageo.com/en/Product/mlcc) | [Model](https://componentsearchengine.com/part-view/CC0402MRX5R5BB106/YAGEO) |
 
 # Alte poze
 
