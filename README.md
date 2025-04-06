@@ -68,4 +68,40 @@ Sistemul este proiectat pentru consum minim, cu multiple moduri de functionare:
 - Mod standby: ~5-10mA
 - Mod deep sleep: <1mA
 
+# ESP32-C6 - Alocarea pinilor
 
+# ESP32-C6 Pin Allocation
+
+## Pini pentru comunicatie
+- **SPI_CLK**: Clock pentru interfata SPI (conectat la Flash, SD Card, Display)
+- **SPI_MOSI**: Master Out Slave In pentru SPI
+- **SPI_MISO**: Master In Slave Out pentru SPI
+- **SS_SD**: Chip Select pentru SD Card
+- **SS_FLASH**: Chip Select pentru memoria Flash
+- **SS_DISP**: Chip Select pentru Display E-Ink
+- **I2C_SCL**: Clock pentru interfata I2C
+- **I2C_SDA**: Linia de date pentru I2C
+- **EPD_DC**: Data/Command pentru display-ul E-Ink
+- **EPD_RST**: Reset pentru display-ul E-Ink
+- **EPD_BUSY**: Semnal de status de la display-ul E-Ink
+
+## Pini de control si interfata utilizator
+- **BTN_1**: Buton 1 pentru navigare
+- **BTN_2**: Buton 2 pentru navigare/confirmare
+- **BTN_3**: Buton 3 pentru navigare
+- **BOOT**: Buton pentru boot/programare
+- **RESET**: Pin de reset hardware
+
+## Pini pentru management energie
+- **BAT_ADC**: Masurare nivel baterie
+- **PWR_CTRL**: Control alimentare
+- **USB_DET**: Detectie conectare USB
+- **CHG_STAT**: Status incarcare baterie
+
+## Alte pini specifici
+- **RTC_INT**: Intrerupere de la modulul RTC
+- **VBAT**: Alimentare de la baterie
+- **3V3**: Alimentare 3.3V
+- **GND**: Masa
+
+Aceasta alocare permite interfatarea eficienta cu toate componentele sistemului OpenBook.
