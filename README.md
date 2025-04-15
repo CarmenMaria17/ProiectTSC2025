@@ -84,6 +84,14 @@
 | TPTP20R | [Model](https://ro.mouser.com/ProductDetail/Adafruit/3825?qs=%252bEew9%252b0nqrAn6n76%252bB5vZg%3D%3D&utm_source=findchips&utm_medium=aggregator&utm_campaign=3825&utm_term=3825&utm_content=Adafruit&_gl=1*1t6jdbp*_ga*MTQ5NTQ1ODI1LjE3NDMyMzgzNTY.*_ga_15W4STQT4T*MTc0Mzc4MDU5Ni4xMi4xLjE3NDM3ODM2MzIuNDIuMC4w) | [Datasheet](https://cdn-shop.adafruit.com/product-files/3825/3825_diagram.PDF) |
 | USB4110-GF-A | [Model](https://componentsearchengine.com/part-view/USB4110-GF-A/GCT%20(GLOBAL%20CONNECTOR%20TECHNOLOGY)) | [Datasheet](https://gct.co/files/drawings/usb4110.pdf) |
 
+# Power Consumption Estimation
+
+The ESP32-C6 microcontroller with Wi-Fi active draws approximately 200mA at 3.3V, consuming around 660mW of power.
+For display operations, the 1.5" E-Ink display requires about 40mA (132mW) during refresh cycles.
+The BME680 environmental sensor consumes minimal power at just 3.1mA (10.23mW) during measurement operations and can be put into sleep mode between readings.
+The DS3231 RTC module is extremely efficient, drawing only 0.15mA (0.495mW) while maintaining accurate timekeeping.
+Storage components include the SD card for e-book storage that requires 50mA (165mW) during active read/write operations, and the 64MB external flash memory that draws about 25mA (82.5mW) when accessed.
+In total, the maximum estimated power consumption is approximately 318.25mA at 3.3V, resulting in 1050.72mW during peak usage.
 
 # Other images
 
