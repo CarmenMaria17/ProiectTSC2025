@@ -10,7 +10,7 @@
 - **ESP32-C6**: Main processor with WiFi/BLE, controls all components
 
 ### Display and Storage
-- **E-Ink Display**: Minimal power consumption display (1.5" 200x200px)
+- **E-Ink Display**: Minimal power consumption display
 - **SD Card**: Electronic book storage
 - **64MB Flash Memory**: For firmware and cache
 
