@@ -87,10 +87,15 @@
 # Power Consumption Estimation
 
 The ESP32-C6 microcontroller with Wi-Fi active draws approximately 200mA at 3.3V, consuming around 660mW of power.
+
 For display operations, the 1.5" E-Ink display requires about 40mA (132mW) during refresh cycles.
+
 The BME680 environmental sensor consumes minimal power at just 3.1mA (10.23mW) during measurement operations and can be put into sleep mode between readings.
+
 The DS3231 RTC module is extremely efficient, drawing only 0.15mA (0.495mW) while maintaining accurate timekeeping.
+
 Storage components include the SD card for e-book storage that requires 50mA (165mW) during active read/write operations, and the 64MB external flash memory that draws about 25mA (82.5mW) when accessed.
+
 In total, the maximum estimated power consumption is approximately 318.25mA at 3.3V, resulting in 1050.72mW during peak usage.
 
 # Other images
